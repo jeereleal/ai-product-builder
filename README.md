@@ -67,6 +67,7 @@ Index:
 - El free de copilot diario que da VsCode
 - Big Pickle que lo da OpenCode
 - OpenAI está regalando tokens por api si compartís tu código para entrenamiento
+- FreeLLMAPI
 - Ollama se puede correr local
 - Jev se puede correr local https://learnjev.com/tutorials/first-call (sirve para catalogar u obtener resultados tipo sí/no)
 
